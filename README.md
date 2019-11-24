@@ -18,3 +18,5 @@ This shader was a part of a bigger project which is on hold. This being in the b
 # Example
 ![WaterShader](https://github.com/RCDane/Water-shader/blob/master/Images/water%20with%20transparancy.gif)
 
+Tested in Unity 2019.2.13f1
+
